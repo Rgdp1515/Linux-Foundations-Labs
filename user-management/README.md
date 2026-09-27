@@ -83,7 +83,17 @@ These commands confirm the user account, primary group membership, home director
 Full Bash Script
 The complete Bash script used for this lab is available here:
 [View user.sh](./user.sh)
-Screenshots
-Screenshots demonstrating the script execution, user and group creation, and permission verification are available in the:
-[`screenshots/`](./screenshots/) directory.
+## Screenshots
+
+### Bash Script Logic
+
+![Bash script showing user and group creation logic](./screenshots/01-user-group-creation-script.jpeg)
+
+### Ownership and Permission Configuration
+
+![Bash script showing ownership and permission configuration](./screenshots/02-ownership-permissions-script.jpeg)
+
+### Final Permission Verification
+
+![Linux directory ownership and permission verification](./screenshots/03-permissions-verification.jpeg)
 
