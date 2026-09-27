@@ -78,6 +78,7 @@ getent group "$groupname"
 ls -ld "/$username"
 
 ls -ld "/home/$username"
+```
 
 These commands confirm the user account, primary group membership, home directory, ownership, and permissions.
 Full Bash Script
