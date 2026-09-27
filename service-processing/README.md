@@ -110,6 +110,6 @@ The output should contain only service names, with no port numbers, protocols, c
 
 ## Screenshots
 
-Screenshots demonstrating the completed pipeline and verification are available in the:
+### Service Processing Pipeline
 
-[`screenshots/`](./screenshots/) directory.
+![Linux service-processing pipeline and verification](screenshots/01-service-processing-pipeline.jpeg)
