@@ -85,7 +85,17 @@ The extracted backup files can be verified with:
 ls -l ~/backup
 ```
 
-Screenshots
-Screenshots demonstrating archive creation, archive inspection, extraction, and backup verification are available in the:
-[`screenshots/`](./screenshots/) directory.
+## Screenshots
+
+### Archive and Backup Directory Creation
+
+![Creation of archive and backup directories](screenshots/01-create-archive-directories.jpeg)
+
+### Archive Creation and Inspection
+
+![Creation and inspection of the log archive](screenshots/02-create-and-inspect-log-archive.jpeg)
+
+### Archive Extraction and Backup Verification
+
+![Extraction and verification of archived log files](screenshots/03-extract-and-verify-backup.jpeg)
 
