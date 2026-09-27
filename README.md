@@ -51,3 +51,9 @@ Example pipeline:
 
 ```bash
 grep -E '^[[:alpha:]]' /etc/services | awk '{print $1}' | sort -u > ~/uniqueservices.txt && wc -l ~/uniqueservices.txt
+
+## Labs
+
+- [User Management and Bash Scripting](./user-management/)
+- [Log Archiving and Preservation](./log-archiving/)
+- [Service Processing with Pipes and Text Utilities](./service-processing/)
