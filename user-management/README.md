@@ -98,4 +98,3 @@ The complete Bash script used for this lab is available here:
 ### Final Permission Verification
 
 ![Linux directory ownership and permission verification](./screenshots/03-permissions-verification.jpeg)
-
