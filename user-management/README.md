@@ -54,11 +54,12 @@ mkdir "/$username"
 chown "$username:$groupname" "/$username"
 
 chmod 1770 "/$username"
-
+```
 Permission Configuration
 The root-level directory created for the user was configured with:
+```
 chmod 1770 "/$username"
-
+```
 The permission value 1770 provides:
 - 7 — read, write, and execute permissions for the owner
 - 7 — read, write, and execute permissions for the group
@@ -67,6 +68,7 @@ The permission value 1770 provides:
 The sticky bit helps prevent users from deleting files they do not own within a shared writable directory.
 Verification
 The configuration can be verified using commands such as:
+```
 id "$username"
 
 groups "$username"
