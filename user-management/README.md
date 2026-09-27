@@ -83,11 +83,13 @@ These commands confirm the user account, primary group membership, home director
 Full Bash Script
 The complete Bash script used for this lab is available here:
 [View user.sh](./user.sh)
+
+
 ## Screenshots
 
 ### Bash Script Logic
 
-![Bash script showing user and group creation logic](./screenshots/01-user-group-creation-script.jpeg)
+![Bash script showing user creation logic](./screenshots/01-user-creation-script.jpeg)
 
 ### Ownership and Permission Configuration
 
